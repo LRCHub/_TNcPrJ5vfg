@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "VOODOO KINGDOM",
+  "base_artist": "SOUL'd OUT",
+  "createdAt": "2025-12-28T05:05:11.643164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VOODOO KINGDOM",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/01_VOODOO_KINGDOM_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Voodoo Kingdom",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/02_Voodoo_Kingdom_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Voodoo Kingdom (Wall5 Remix)",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/03_Voodoo_Kingdom_(Wall5_Remix)_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Voodoo Kingdom",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/04_Voodoo_Kingdom_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VOODOO KINGDOM ～Wall5 Remix～",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/05_VOODOO_KINGDOM_~Wall5_Remix~_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VOODOO KINGDOM",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/pl_01_VOODOO_KINGDOM_SOUL'd_OUT.txt"
+    }
+  ]
+}
